@@ -12,8 +12,8 @@
           <v-avatar size="80" class="user-avatar">
             <img src="/public/download.jfif" alt="Daniel" />
           </v-avatar>
-          <h3 class="user-name">Daniel de Oliveira</h3>
-          <p class="user-subtitle">Zanchetta</p>
+          <h3 class="user-name">Daniel de Oliveira Zanchetta</h3>
+          
         </div>
       </div>
 
