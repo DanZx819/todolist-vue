@@ -1,5 +1,5 @@
 # Todo List com Vue
-#Link: https://todolist-vue-xi.vercel.app
+
 Aplicação web moderna de gerenciamento de tarefas desenvolvida com Vue.js 3, Vuetify 3 e Pinia.
 
 ## Descrição do Projeto
@@ -7,6 +7,8 @@ Aplicação web moderna de gerenciamento de tarefas desenvolvida com Vue.js 3, V
 O Todo List com Vue é uma aplicação completa para gerenciamento de tarefas pessoais, oferecendo uma interface intuitiva, design elegante e experiência de usuário fluida. A aplicação permite criar, editar, deletar e marcar tarefas como concluídas, além de fornecer estatísticas e métricas de produtividade.
 
 O projeto utiliza as mais recentes tecnologias do ecossistema Vue.js, seguindo as melhores práticas de desenvolvimento frontend e design de interface. Todos os dados são armazenados localmente no navegador através do localStorage, garantindo privacidade total e funcionamento offline.
+
+Link: https://todolist-vue-xi.vercel.app
 
 ## Funcionalidades Principais
 
