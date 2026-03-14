@@ -1,7 +1,7 @@
 <script setup>
-
+    import AboutComponent from '@/components/AboutComponent.vue';
 </script>
 
 <template>
-    <h1>About</h1>
+    <about-component/>
 </template>
