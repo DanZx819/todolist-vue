@@ -101,7 +101,7 @@ import { ref, computed } from "vue";
 
 const drawer = ref(false);
 const items = [
-  { text: "Home", icon: "mdi-home", to: "home" },
+  { text: "Home", icon: "mdi-home", to: "/" },
   { text: "About", icon: "mdi-information", to: "about" },
 ];
 
