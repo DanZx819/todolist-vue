@@ -29,7 +29,7 @@
         </p>
         
         <div class="hero-cta">
-          <router-link to="/home" class="btn-primary">
+          <router-link to="/todo" class="btn-primary">
             <v-icon class="btn-icon">mdi-rocket-launch</v-icon>
             Começar Agora
           </router-link>
