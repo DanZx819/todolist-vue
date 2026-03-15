@@ -5,13 +5,16 @@ import Fonts from 'unplugin-fonts/vite'
 import { defineConfig } from 'vite'
 import Vuetify, { transformAssetUrls } from 'vite-plugin-vuetify'
 import VueRouter from 'unplugin-vue-router/vite'
+import { VitePWA } from 'vite-plugin-pwa'
 
 export default defineConfig({
   plugins: [
     VueRouter({
       routesFolder: 'src/pages',
     }),
-
+    VitePWA({ 
+      registerType: 'autoUpdate' 
+    }),
     tailwindcss(),
 
     Vue({
